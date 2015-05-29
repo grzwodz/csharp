@@ -1,0 +1,30 @@
+c:\users\pawcio\documents\visual studio 2013\Projects\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+c:\users\pawcio\documents\visual studio 2013\Projects\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojResolveAssemblyReference.cache
+c:\users\pawcio\documents\visual studio 2013\Projects\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Form1.resources
+c:\users\pawcio\documents\visual studio 2013\Projects\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+c:\users\pawcio\documents\visual studio 2013\Projects\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.Cache
+c:\users\pawcio\documents\visual studio 2013\Projects\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+c:\users\pawcio\documents\visual studio 2013\Projects\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+c:\users\pawcio\documents\visual studio 2013\Projects\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+c:\users\pawcio\documents\visual studio 2013\Projects\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+c:\users\pawcio\documents\visual studio 2013\Projects\Przychodnia\Przychodnia\obj\Debug\Przychodnia.FormDodajWizyte.resources
+c:\users\pawcio\documents\visual studio 2013\Projects\Przychodnia\Przychodnia\obj\Debug\Przychodnia.FormDodajPacjenta.resources
+c:\users\pawcio\documents\visual studio 2013\Projects\Przychodnia\Przychodnia\obj\Debug\Przychodnia.FormDodajLekarza.resources
+C:\Users\hejte_000\Desktop\Przychodnia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\hejte_000\Desktop\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\hejte_000\Desktop\Przychodnia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\hejte_000\Desktop\Przychodnia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\hejte_000\Desktop\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojResolveAssemblyReference.cache
+C:\Users\hejte_000\Desktop\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Form1.resources
+C:\Users\hejte_000\Desktop\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.FormDodajWizyte.resources
+C:\Users\hejte_000\Desktop\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.FormDodajPacjenta.resources
+C:\Users\hejte_000\Desktop\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.FormDodajLekarza.resources
+C:\Users\hejte_000\Desktop\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\hejte_000\Desktop\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.Cache
+C:\Users\hejte_000\Desktop\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\hejte_000\Desktop\Przychodnia\Przychodnia\apbd_projekt1\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\hejte_000\Desktop\Przychodnia\Przychodnia\apbd_projekt1\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\hejte_000\Desktop\Przychodnia\Przychodnia\apbd_projekt1\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\hejte_000\Dropbox\programowanie\apbd_projekt1\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\hejte_000\Dropbox\programowanie\apbd_projekt1\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\hejte_000\Dropbox\programowanie\apbd_projekt1\Przychodnia\obj\Debug\Przychodnia.pdb
